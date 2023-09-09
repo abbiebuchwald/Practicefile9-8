@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Abigail Buchwald | Lab 1 </title>
+    </head>
+    <body>
+        <h1>Getting to Know Abbie</h1>
+        <h2>Introduction</h2>
+            <p>My name is Abbie Buchwald, you can call me Bucky if you feel so inclined. I am a 21-year-old Graphic Design major from North Carolina and Colorado. This is my first semester at Lesley, and I am looking forward to learning alongside likeminded individuals!</p>
+        <h2>Music</h2>
+            <ol>
+                <li>Samia-Triptych</li>
+                <li>Men I Trust-Humming Man</li>
+                <li>Ethel Cain-American Teenager</li>
+            </ol>
+        <h2>Food</h2>
+            <ul>
+                <li>Mochi</li>
+                <li>Frozen Grapes</li>
+                <li><a href="https://mykoreankitchen.com/tteokbokki-spicy-rice-cakes/">Tteokbokki</a></li>
+                <li>Pickles</li>
+            </ul>
+        <h2>Trips</h2>
+        <table border="5" cellpadding="5" width="30%">
+            <tr>
+                <td>How?</td>
+                <td>Where?</td>
+                <td>When?</td>
+            </tr>
+            <tr>
+                <td>Airplane</td>
+                <td>Italy</td>
+                <td>2022</td>
+            </tr>
+            <tr>
+                <td>Airplane</td>
+                <td>Mexico</td>
+                <td>2022</td>
+            </tr>
+            <tr>
+                <td>Car</td>
+                <td>Boston</td>
+                <td>2023</td>
+            </tr>
+        </table>
+    </body>
+</html>
